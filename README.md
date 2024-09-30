@@ -63,8 +63,4 @@ This project demonstrated the successful path planning and control of various st
 
 Overall, this project demonstrated the effectiveness of using the hybrid A* motion planning method for automated parking of nonholonomic vehicles.
 
----
-
-This addition provides a clear and concise conclusion to your README, highlighting the project outcomes and potential areas for future improvements.
-
 
